@@ -31,3 +31,5 @@ theme:
 
   # Toggle "Postings are my own" disclaimer in footer
   show_disclaimer: false
+
+theme: jekyll-theme-tactile
