@@ -1,5 +1,5 @@
 # General Jekyll Config
-url: https://dmd1070.com
+url: /cp1a_DMD1070
 markdown: kramdown
 highlighter: rouge
 kramdown:
